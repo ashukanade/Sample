@@ -1,2 +1,2 @@
-# Sample
+### Home Page
 Sample coding
